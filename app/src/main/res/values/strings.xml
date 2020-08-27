@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Information Nation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
